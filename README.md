@@ -1,1 +1,1 @@
-# Color-Game-Project
+# Color Game Project
